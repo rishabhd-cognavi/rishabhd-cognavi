@@ -61,8 +61,8 @@ Welcome to my GitHub! I'm passionate about building seamless and interactive web
 - Experiments with **Next.js, animations, and frontend performance tuning**.
 - Contributions to **frontend communities and repositories**.
 
-## 📈 GitHub Stats
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!--## 📈 GitHub Stats
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)-->
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
