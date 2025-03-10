@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rishabh
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Rishabh's+GitHub+Profile)
+<!--![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Rishabh's+GitHub+Profile)-->
 
 🚀 **Frontend Developer | React.js Enthusiast | UI/UX Explorer**
 
