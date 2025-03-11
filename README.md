@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about building seamless and interactive web
 - 🔍 Passionate about **clean code, performance optimization, and accessibility**.
 - 📖 Always learning and exploring **new technologies & best practices**.
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
